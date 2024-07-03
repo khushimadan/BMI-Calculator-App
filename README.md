@@ -1,4 +1,5 @@
 # BMI Calculator App
 
-Developed a Body Mass Index (BMI) calculator app for Android using Flutter by creating customised widgets for a beautiful User Interface.
+Developed a BMI (Body Mass Index) Calculator App for Android using Flutter.
+Created various customized widgets for a beautiful User Interface.
 
